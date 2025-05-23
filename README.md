@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/1Q8g7xX.png" alt="Banner" width="600">
+  <img src="https://i.imgur.com/uNMRRjk.jpeg" alt="Banner" width="600">
 </p>
 
 Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại **Hà Nội, Việt Nam 🏙️**. Tôi đam mê lập trình và đang học, làm việc với **Java** và **HTML**! 💻
@@ -28,9 +28,9 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 </p>
 
 ### 📌 Dự Án Nổi Bật
-- **[oc-pptit](https://github.com/HTP8888/OOP-PTIT)**: Lập trình để quá môn - Java.  
-- **[hotel69](https://github.com/HTP8888/hotel69)**: Dự án quản lý khách sạn - Java.  
-- **[my-website](https://htp8888.github.io/my-website/)**: Trang web cá nhân - HTML.
+- **[OOP PTIT](https://github.com/HTP8888/OOP-PTIT)**: Lập trình để quá môn - Java.  
+- **[Quản lý khách sạn](https://github.com/HTP8888/hotel69)**: Dự án quản lý khách sạn - Java.  
+- **[WEBSITE của tui](https://htp8888.github.io/my-website/)**: Trang web cá nhân - HTML.
 
 ### 🎯 Sở Thích
 - Khám phá công nghệ mới và các framework hiện đại 🌟  
