@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=500&lines=Xin+chào!+Tôi+là+Hoàng+Trần+Phong+👋;Sinh+viên+đam+mê+công+nghệ+từ+Nghệ+An!+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00C4B4&width=1000&lines=Xin+chào!+Tôi+là+Hoàng+Trần+Phong+👋+~+Sinh+viên+đam+mê+công+nghệ+từ+Nghệ+An!+🚀" alt="Scrolling Banner" style="display: block; margin: 0 auto; animation: scroll 10s linear infinite;">
 </p>
+
+<style>
+  @keyframes scroll {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+  }
+</style>
 
 <p align="center">
   <img src="https://i.imgur.com/1Q8g7xX.png" alt="Banner" width="600">
@@ -10,7 +17,7 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 ### 🌟 Về Tôi
 - 📍 **Vị trí**: Hà Nội, Việt Nam  
-- 📅 **Múi giờ**: 09:39 (UTC +07:00)  
+- 📅 **Múi giờ**: 09:40 (UTC +07:00)  
 - 📧 **Email**: [htp20338888@gmail.com](mailto:htp20338888@gmail.com)  
 - 🌐 **Website**: [My Website](https://htp8888.github.io/my-website/)  
 - 📘 **Facebook**: [phonglanne99](https://facebook.com/phonglanne99)
