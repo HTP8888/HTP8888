@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00C4B4&width=1000&lines=Xin+chào!+Tôi+là+Hoàng+Trần+Phong+👋+~+Sinh+viên+đam+mê+công+nghệ+từ+Nghệ+An!+🚀" alt="Scrolling Banner" style="display: block; margin: 0 auto; animation: scroll 10s linear infinite;">
+  <div style="overflow: hidden; white-space: nowrap; width: 100%;">
+    <span style="display: inline-block; font-family: 'Fira Code', monospace; font-size: 20px; color: #00C4B4; animation: scroll 15s linear infinite;">
+      Xin chào! Tôi là Hoàng Trần Phong 👋 ~ Sinh viên đam mê công nghệ từ Nghệ An! 🚀
+    </span>
+  </div>
 </p>
 
 <style>
@@ -17,9 +21,9 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 ### 🌟 Về Tôi
 - 📍 **Vị trí**: Hà Nội, Việt Nam  
-- 📅 **Múi giờ**: 09:45 (UTC +07:00)  
+- 📅 **Múi giờ**: 09:46 (UTC +07:00)  
 - 📧 **Email**: [htp20338888@gmail.com](mailto:htp20338888@gmail.com)  
-- 🌐 **Website**: [My Website](httpsđhttps://htp8888.github.io/my-website/)  
+- 🌐 **Website**: [My Website](https://htp8888.github.io/my-website/)  
 - 📘 **Facebook**: [phonglanne99](https://facebook.com/phonglanne99)
 
 ### 🛠️ Kỹ Năng
