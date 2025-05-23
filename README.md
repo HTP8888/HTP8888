@@ -15,7 +15,7 @@ Tôi là một sinh viên đến từ Nghệ An, Việt Nam. Hiện tại, tôi 
 ## 📌 Các dự án nổi bật
 - [oc-pptit](https://github.com/HTP8888/oc-pptit): Lập trình để quá môn - Java.
 - [hotel69](https://github.com/HTP8888/hotel69): Dự án quản lý khách sạn - Java.
-- [my-website](https://github.com/HTP8888/my-website): Trang web cá nhân - HTML.
+- [my-website](https://htp8888.github.io/my-website/): Trang web cá nhân - HTML.
 
 ## 🎯 Sở thích
 - Thích khám phá công nghệ mới 🌟
