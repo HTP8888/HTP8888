@@ -13,7 +13,7 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 - 📅 **Múi giờ**: 09:55 (UTC +07:00)  
 - 📧 **Email**: [htp20338888@gmail.com](mailto:htp20038888@gmail.com)  
 - 🌐 **Website**: [My Website](https://htp8888.github.io/my-website/)  
-- 📘 **Facebook**: [phonglanne99](https://facebook.com/ph)
+- 📘 **Facebook**: [Hoàng Trần Phong](https://www.facebook.com/phonglanne999/)
 
 ### 🛠️ Kỹ Năng
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
