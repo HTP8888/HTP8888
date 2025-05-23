@@ -4,7 +4,7 @@ Tôi là một sinh viên đến từ Nghệ An, Việt Nam. Hiện tại, tôi 
 
 - 📍 **Vị trí**: Hà Nội, Việt Nam
 - 📅 **Múi giờ**: 09:27 (UTC +07:00)
-- 📧 **Email**: [htp20338888@gmail.com](mailto:htp20338888@gmail.com)
+- 📧 **Email**: [htp20338888@gmail.com](mailto:htp20038888@gmail.com)
 - 🌐 **Website**: [My Website](https://htp20338888.github.io/my-website/)
 - 📘 **Facebook**: [phonglanne99](https://facebook.com/phonglanne99)
 
