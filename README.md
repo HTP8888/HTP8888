@@ -6,7 +6,7 @@ Tôi là một sinh viên đến từ Nghệ An, Việt Nam. Hiện tại, tôi 
 - 📅 **Múi giờ**: 09:27 (UTC +07:00)
 - 📧 **Email**: [htp20338888@gmail.com](mailto:htp20038888@gmail.com)
 - 🌐 **Website**: [My Website](https://htp20338888.github.io/my-website/)
-- 📘 **Facebook**: [phonglanne99](https://facebook.com/phonglanne99)
+- 📘 **Facebook**: [phonglanne99](https://facebook.com/phonglanne999)
 
 ## 📊 Thống kê GitHub của tôi
 ![Thống kê](https://github-readme-stats.vercel.app/api?username=HTP8888&show_icons=true&theme=dracula)
