@@ -14,7 +14,7 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 - 📍 **Vị trí**: Hà Nội, Việt Nam  
 - 📅 **Múi giờ**: 09:55 (UTC +07:00)  
-- 📧 **Email**: [htp20338888@gmail.com](mailto:htp20338888@gmail.com)  
+- 📧 **Email**: [htp20038888@gmail.com](mailto:htp20338888@gmail.com)  
 - 🌐 **Website**: [My Website](https://htp8888.github.io/my-website/)  
 - 📘 **Facebook**: [Hoàng Trần Phong](https://www.facebook.com/phonglanne999/)
 
@@ -79,7 +79,7 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 ### 📌 Dự Án Nổi Bật
 
-- **[OOP PTIT](https://github.com/HTP8888/OOP-PTIT)**: Lập trình để quá môn - Java.  
+- **[OOP PTIT](https://github.com/HTP8888/OOP-PTIT)**: Lập trình để qua môn - Java.  
 - **[Quản lý khách sạn](https://github.com/HTP8888/hotel69)**: Dự án quản lý khách sạn - Java.  
 - **[WEBSITE của tui](https://htp8888.github.io/my-website/)**: Trang web cá nhân - HTML.
 
