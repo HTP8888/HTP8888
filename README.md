@@ -4,15 +4,11 @@
 
 </p>
 
-
-
 <p align="center">
 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhyM2tjMWxmamdjemQ4NXB2MGlxYzlybmRuaTk5cmRwaDg1NTFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9FlAbDWF95S3C/giphy.gif" alt="Banner" width="600">
 
 </p>
-
-
 
 Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại **Hà Nội, Việt Nam 🏙️**. Tôi thích vọc vạch, làm việc với **Java** và **HTML**! 💻
 
@@ -42,19 +38,12 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-
 ### 📊 Thống Kê GitHub
 
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=HTP8888&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTP8888&layout=compact&theme=midnight-purple" alt="Top Languages">
-
 </p>
-
-
 
 ### 📌 Dự Án Nổi Bật
 
@@ -64,8 +53,6 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 - **[WEBSITE của tui](https://htp8888.github.io/my-website/)**: Trang web cá nhân - HTML.
 
-
-
 ### 🎯 Sở Thích
 
 - Khám phá công nghệ mới và các framework hiện đại 🌟  
@@ -73,8 +60,6 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 - Fan cuồng của **Doraemon** và **Chồn xanh lè** 🐾 (như avatar của tôi!)  
 
 - Thích nghe nhạc và hốc **bún bò Huế** vào cuối tuần! 🍜
-
-
 
 ### 📈 Trạng Thái
 
