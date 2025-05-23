@@ -1,0 +1,24 @@
+# Xin chào! Tôi là Hoàng Trần Phong 👋
+
+Tôi là một lập trình viên đam mê từ Hà Nội, Việt Nam. Hiện tại, tôi đang học và làm việc với **Java** và **HTML**! 🚀
+
+- 📍 **Vị trí**: Hà Nội, Việt Nam
+- 📅 **Múi giờ**: 09:27 (UTC +07:00)
+- 📧 **Email**: [htp20338888@gmail.com](mailto:htp20338888@gmail.com)
+- 🌐 **Website**: [My Website](https://htp20338888.github.io/my-website/)
+- 📘 **Facebook**: [phonglanne99](https://facebook.com/phonglanne99)
+
+## 📊 Thống kê GitHub của tôi
+![Thống kê](https://github-readme-stats.vercel.app/api?username=HTP8888&show_icons=true&theme=dracula)
+![Ngôn ngữ](https://github-readme-stats.vercel.app/api/top-langs/?username=HTP8888&layout=compact&theme=dracula)
+
+## 📌 Các dự án nổi bật
+- [oc-pptit](https://github.com/HTP8888/oc-pptit): Lập trình đề quá môn - Java.
+- [hotel69](https://github.com/HTP8888/hotel69): Dự án quản lý khách sạn - Java.
+- [my-website](https://github.com/HTP8888/my-website): Trang web cá nhân - HTML.
+
+## 🎯 Sở thích
+- Thích khám phá công nghệ mới 🌟
+- Fan của Doraemon 🐾 (như avatar của tôi!)
+
+💻 Code với niềm vui, sống với đam mê! 😄
