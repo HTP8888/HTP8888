@@ -10,20 +10,16 @@
 </style>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00C4B4&width=1000&lines=Xin+chào!+Tôi+là+Hoàng+Trần+Phong+👋+~+Sinh+viên+đam+mê+công+nghệ+từ+Nghệ+An!+🚀" alt="Scrolling Banner">
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/81REFcZ.png" alt="Banner" width="600">
+  <img src="https://via.placeholder.com/600x200.png?text=Hoang+Tran+Phong+-+Welcome+to+My+GitHub" alt="Banner" width="600">
 </p>
 
 Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại **Hà Nội, Việt Nam 🏙️**. Tôi đam mê lập trình và đang học, làm việc với **Java** và **HTML**! 💻
 
 ### 🌟 Về Tôi
 - 📍 **Vị trí**: Hà Nội, Việt Nam  
-- 📅 **Múi giờ**: 09:40 (UTC +07:00)  
+- 📅 **Múi giờ**: 09:45 (UTC +07:00)  
 - 📧 **Email**: [htp20338888@gmail.com](mailto:htp20338888@gmail.com)  
-- 🌐 **Website**: [My Website](https://htp8888.github.io/my-website/)  
+- 🌐 **Website**: [My Website](httpsđhttps://htp8888.github.io/my-website/)  
 - 📘 **Facebook**: [phonglanne99](https://facebook.com/phonglanne99)
 
 ### 🛠️ Kỹ Năng
