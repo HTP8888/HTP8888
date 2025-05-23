@@ -6,7 +6,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhyM2tjMWxmamdjemQ4NXB2MGlxYzlybmRuaTk5cmRwaDg1NTFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9FlAbDWF95S3C/giphy.gif" alt="Banner" width="600">
 </p>
 
-Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại **Hà Nội, Việt Nam 🏙️**. Tôi đam mê lập trình và đang học, làm việc với **Java** và **HTML**! 💻
+Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại **Hà Nội, Việt Nam 🏙️**. Tôi thích vọc vạch, làm việc với **Java** và **HTML**! 💻
 
 ### 🌟 Về Tôi
 - 📍 **Vị trí**: Hà Nội, Việt Nam  
@@ -35,7 +35,7 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 ### 🎯 Sở Thích
 - Khám phá công nghệ mới và các framework hiện đại 🌟  
 - Fan cuồng của **Doraemon** và **Chồn xanh lè** 🐾 (như avatar của tôi!)  
-- Thích nghe nhạc và ăn **bún bò Huế** vào cuối tuần! 🍜
+- Thích nghe nhạc và hốc **bún bò Huế** vào cuối tuần! 🍜
 
 ### 📈 Trạng Thái
 <p align="center">
