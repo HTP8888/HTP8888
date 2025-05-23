@@ -13,7 +13,7 @@ Tôi là một sinh viên đến từ Nghệ An, Việt Nam. Hiện tại, tôi 
 ![Ngôn ngữ](https://github-readme-stats.vercel.app/api/top-langs/?username=HTP8888&layout=compact&theme=dracula)
 
 ## 📌 Các dự án nổi bật
-- [oc-pptit](https://github.com/HTP8888/oc-pptit): Lập trình để quá môn - Java.
+- [oc-pptit](https://github.com/HTP8888/OOP-PTIT): Lập trình để quá môn - Java.
 - [hotel69](https://github.com/HTP8888/hotel69): Dự án quản lý khách sạn - Java.
 - [my-website](https://htp8888.github.io/my-website/): Trang web cá nhân - HTML.
 
