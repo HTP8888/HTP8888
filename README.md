@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&colorMode=gradient&gradientColors=FF0000,00FF00,0000FF&width=1000&lines=Xin+chào!+Tôi+là+Hoàng+Trần+Phong+👋+~+Sinh+viên+đam+mê+công+nghệ+từ+Nghệ+An!+🚀" alt="RGB Banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=1000&colorMode=gradient&gradientColors=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&width=1000&lines=Xin+chào!+Tôi+là+Hoàng+Trần+Phong+👋+~+Sinh+viên+đam+mê+công+nghệ+từ+Nghệ+An!+🚀" alt="RGB Banner">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 ### 🌟 Về Tôi
 - 📍 **Vị trí**: Hà Nội, Việt Nam  
-- 📅 **Múi giờ**: 09:39 (UTC +07:00)  
+- 📅 **Múi giờ**: 09:55 (UTC +07:00)  
 - 📧 **Email**: [htp20338888@gmail.com](mailto:htp20338888@gmail.com)  
 - 🌐 **Website**: [My Website](https://htp8888.github.io/my-website/)  
 - 📘 **Facebook**: [phonglanne99](https://facebook.com/phonglanne99)
