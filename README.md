@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=1000&colorMode=gradient&gradientColors=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&width=1000&lines=Xin+chào!+Tôi+là+Hoàng+Trần+Phong+👋+~+Sinh+viên+đam+mê+công+nghệ+từ+Nghệ+An!+🚀" alt="RGB Banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=1000&colorMode=gradient&gradientColors=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&width=1000&lines=Xin+chào!+Tôi+là+Hoàng+Trần+Phong+👋+~+Sinh+viên+thích+đồ+công+nghệ+từ+Nghệ+An!+🚀" alt="RGB Banner">
 </p>
 
 <p align="center">
