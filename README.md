@@ -29,14 +29,23 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 
 ### 🛠️ Kỹ Năng
+**Kỹ năng chuyên ngành (Technical Skills):**
+- Mạng máy tính: TCP/IP, Routing, Switching, VoIP, SDN, OpenFlow.
+- Công cụ & Hệ điều hành: Zabbix,Wireshark,Cisco Packet Tracer,Linux.
+- Lập trình: Java, HTML, CSS.
+- Đang tìm hiểu: Cloud Networking (AWS, Azure), 5G Network Solutions, Network Automation (Ansible).
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?style=flat-square&logo=zabbix)
+![Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco)
+
+
 
 ### 📊 Thống Kê GitHub
 
