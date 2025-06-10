@@ -116,5 +116,5 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 ---
 
 <p align="center">
- 💻 <b>Code với niềm vui, sống với đam mê!</b> 😄
+ 💻 <b>Connecting the Future, Innovating Today.</b> 😄
 </p>
