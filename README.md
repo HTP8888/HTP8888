@@ -68,15 +68,6 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 ---
 
-### 📊 Thống Kê GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HTP8888&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTP8888&layout=compact&theme=midnight-purple" alt="Top Languages">
-</p>
-
----
-
 ### 📌 Dự Án Nổi Bật
 
 - **[OOP PTIT](https://github.com/HTP8888/OOP-PTIT)**: Lập trình để qua môn - Java.  
