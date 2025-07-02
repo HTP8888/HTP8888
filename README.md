@@ -84,18 +84,6 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 ---
 
-### 📈 Trạng Thái
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HTP8888&theme=midnight-purple" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HTP8888&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
----
-
 ### 📫 Liên hệ với tôi
 
 <p align="center">
