@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Giới thiệu
 
-Xin chào! Mình là **Hoàng Trần Phong** đến từ **Nghệ An 🇻🇳**, hiện đang sống và học tập tại **Hà Nội**.  
+Xin chào! Mình là **Hoàng Trần Phong** đến từ **Nghệ An**, hiện đang sống và học tập tại **Hà Nội**.  
 🎓 Sinh viên ngành **Điện tử - Viễn thông** chuyên ngành **Mạng và Dịch vụ Internet** tại **PTIT**.  
-💡 Đam mê với **giám sát hệ thống, lập trình mạng và công nghệ truy nhập quang thế hệ mới (XGS-PON)**.
+💡 Đam mê với **giám sát hệ thống, lập trình mạng và đang học tập về công nghệ truy nhập quang thế hệ mới (XGS-PON)**.
 
 ---
 
@@ -77,8 +77,8 @@ Xin chào! Mình là **Hoàng Trần Phong** đến từ **Nghệ An 🇻🇳**,
 
 - 🔍 Khám phá công nghệ mới, framework hiện đại  
 - 📺 Theo dõi giải bóng đá & CLB **Chelsea FC** 💙  
-- 🍜 Hốc **bún bò Huế** vào cuối tuần  
-- 📡 Vọc vạch thiết bị mạng và tự dựng lab EVE-NG
+- 🍜 Chén **bún bò Huế** vào cuối tuần  
+- 📡 Vọc vạch thiết bị mạng (đôi khi làm hỏng luôn :D)
 
 ---
 
