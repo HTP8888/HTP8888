@@ -1,64 +1,69 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=1000&colorMode=gradient&gradientColors=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&width=1000&lines=Xin+chào!+Tôi+là+Hoàng+Trần+Phong+👋+~+Sinh+viên+thích+đồ+công+nghệ+từ+Nghệ+An!+🚀" alt="RGB Banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&pause=1000&color=1D57D9&center=true&vCenter=true&width=1000&lines=👋+Xin+chào!+Tôi+là+Hoàng+Trần+Phong+(HTP8888)+🚀;💻+System+Monitoring+%26+FTTx+Engineer+in+training;🌐+Sinh+viên+PTIT+%7C+Mạng+%26+Dịch+vụ+Internet;⚡+Zabbix+%7C+Grafana+%7C+EVE-NG+%7C+XGS-PON+%7C+Java+%7C+Python" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhyM2tjMWxmamdjemQ4NXB2MGlxYzlybmRuaTk5cmRwaDg1NTFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9FlAbDWF95S3C/giphy.gif" alt="Banner" width="600">
-</p>
-
-Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại **Hà Nội, Việt Nam 🏙️**. Tôi thích vọc vạch, làm việc với **Java** và **HTML**! 💻
 
 ---
 
-### 🌟 Về Tôi
+### 👨‍💻 Giới thiệu
+
+Xin chào! Mình là **Hoàng Trần Phong** đến từ **Nghệ An 🇻🇳**, hiện đang sống và học tập tại **Hà Nội**.  
+🎓 Sinh viên ngành **Điện tử - Viễn thông** chuyên ngành **Mạng và Dịch vụ Internet** tại **PTIT**.  
+💡 Đam mê với **giám sát hệ thống, lập trình mạng và công nghệ truy nhập quang thế hệ mới (XGS-PON)**.
+
+---
+
+### 🌟 Thông tin nhanh
 
 - 📍 **Vị trí**: Hà Nội, Việt Nam  
-- 📅 **Múi giờ**: Hà Nội (UTC +07:00)(UTC +07:00)  
-- 📧 **Email**: [htp20038888@gmail.com](mailto:htp20338888@gmail.com)  
+- 🕐 **Múi giờ**: UTC +07:00  
+- 📧 **Email**: [phonght.b21vt339@stu.ptit.edu.vn](mailto:phonght.b21vt339@stu.ptit.edu.vn)  
 - 🌐 **Website**: [My Website](https://htp8888.github.io/my-website/)  
 - 📘 **Facebook**: [Hoàng Trần Phong](https://www.facebook.com/phonglanne999/)
 
 ---
 
-### 🛠️ Kỹ Năng
+### 🛠️ Kỹ Năng Chính
 
-**Kỹ năng chuyên ngành (Technical Skills):**
+**🔍 System Monitoring & Network Tools:**
 
-- Mạng máy tính: TCP/IP, Routing, Switching, VoIP, SDN, OpenFlow.
-- Công cụ & Hệ điều hành: Zabbix, Wireshark, Cisco Packet Tracer, Linux.
-- Lập trình: Java, HTML, CSS.
-- Đang tìm hiểu: Cloud Networking (AWS, Azure), 5G Network Solutions, Network Automation (Ansible).
+- Zabbix, Grafana, Wireshark, pfSense, EVE-NG  
+- SNMP/Trap, Dashboard, Trigger, Alert Rule  
+- VLAN, NAT, VPN, Port Forwarding
+
+**💻 Lập trình & Phát triển phần mềm:**
+
+- Java, C++, Python, HTML, CSS  
+- API Integration, CLI Tools, Automation Script
+
+**📡 Công nghệ & Nghiên cứu:**
+
+- XGS-PON / OLT / ONU / ONT  
+- ITU-T G.9807.1, GPON Coexistence  
+- Cloud Networking (AWS, Azure), SDN & OpenFlow
 
 <p align="center">
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3"/></a>
-  <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux"/></a>
-  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
-  <a href="https://www.zabbix.com/"><img src="https://img.shields.io/badge/-Zabbix-DC382D?style=flat-square&logo=zabbix"/></a>
-  <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco"/></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+  <a href="https://www.zabbix.com/"><img src="https://img.shields.io/badge/Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white"/></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/></a>
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧰 Công cụ mình yêu thích
+### 🚀 Dự Án Nổi Bật
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=flat-square&logo=zabbix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
+| 📁 Tên Dự Án | 💡 Nội dung | 🔗 Link |
+|------------|------------|--------|
+| **OOP PTIT** | Bài tập lập trình hướng đối tượng Java | [🔎 Repo](https://github.com/HTP8888/OOP-PTIT) |
+| **Hotel69** | Ứng dụng quản lý khách sạn (Java + MySQL) | [🏨 Repo](https://github.com/HTP8888/hotel69) |
+| **My Website** | Portfolio cá nhân - HTML/CSS/JS | [🌐 Demo](https://htp8888.github.io/my-website/) |
+| **XGS-PON Lab** | Mô phỏng mạng truy nhập quang thế hệ mới | [📡 Repo](https://github.com/HTP8888/XGS-PON-Lab) |
 
 ---
 
-### 📚 Đang học thêm
+### 📚 Mình đang học thêm về
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -68,32 +73,23 @@ Tôi là một sinh viên đến từ **Nghệ An**, hiện đang sống tại *
 
 ---
 
-### 📌 Dự Án Nổi Bật
-
-- **[OOP PTIT](https://github.com/HTP8888/OOP-PTIT)**: Lập trình để qua môn - Java.  
-- **[Quản lý khách sạn](https://github.com/HTP8888/hotel69)**: Dự án quản lý khách sạn - Java.  
-- **[WEBSITE của tui](https://htp8888.github.io/my-website/)**: Trang web cá nhân - HTML.
-
----
-
 ### 🎯 Sở Thích
 
-- Khám phá công nghệ mới và các framework hiện đại 🌟  
-- Fan cuồng của **Doraemon** và **Chồn xanh lè** 🐾  
-- Thích nghe nhạc và hốc **bún bò Huế** vào cuối tuần! 🍜
+- 🔍 Khám phá công nghệ mới, framework hiện đại  
+- 📺 Theo dõi giải bóng đá & CLB **Chelsea FC** 💙  
+- 🍜 Hốc **bún bò Huế** vào cuối tuần  
+- 📡 Vọc vạch thiết bị mạng và tự dựng lab EVE-NG
 
 ---
 
-### 📫 Liên hệ với tôi
+### 📫 Kết nối với mình
 
 <p align="center">
-  <a href="mailto:htp20338888@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:phonght.b21vt339@stu.ptit.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/phonglanne999/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://github.com/HTP8888"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
- 💻 <b>Connecting the Future, Innovating Today.</b> 😄
-</p>
+<p align="center">💻 <b>Connecting the Future, Innovating Today.</b> 🌐</p>
