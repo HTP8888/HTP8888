@@ -91,6 +91,4 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.herokuapp.com/view?type=waving&color=1D57D9&height=100&section=footer" width="100%" />
-</p>
+
