@@ -75,21 +75,6 @@
 
 ---
 
-## 📈 Thống kê GitHub của tôi
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=HTP8888&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="410" alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTP8888&layout=compact&theme=tokyonight&hide_border=true" width="410" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📚 Đang học tập & Nghiên cứu thêm
 <p align="left">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
@@ -104,14 +89,7 @@
 *   🍜 Có niềm đam mê mãnh liệt với món **Bún bò Huế** vào cuối tuần.
 *   💻 Thích vọc vạch, cấu hình lab mạng thực tế (thỉnh thoảng làm sập cả lab :D).
 
----
 
-## 📫 Kết nối với mình
-<p align="center">
-  <a href="mailto:phonght.b21vt339@stu.ptit.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/phonglanne999/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://github.com/HTP8888"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.herokuapp.com/view?type=waving&color=1D57D9&height=100&section=footer" width="100%" />
