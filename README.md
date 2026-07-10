@@ -77,12 +77,16 @@
 
 ## 📈 Thống kê GitHub của tôi
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HTP8888&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTP8888&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<br clear="both" />
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=HTP8888&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="410" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTP8888&layout=compact&theme=tokyonight&hide_border=true" width="410" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
