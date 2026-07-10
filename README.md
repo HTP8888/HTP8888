@@ -68,10 +68,12 @@
 
 | Dự án | Mô tả chi tiết | Công nghệ chính | Liên kết |
 | :--- | :--- | :--- | :--- |
-| 🏨 **Hotel69** | Phần mềm quản lý khách sạn nâng cao | Java, MySQL | [🔎 Repository](https://github.com/HTP8888/hotel69) |
-| 📡 **XGS-PON Lab** | Mô phỏng và tối ưu mạng quang thế hệ mới | EVE-NG, G.9807.1 | [📡 Repository](https://github.com/HTP8888/XGS-PON-Lab) |
+| 🏨 **Hotel69** | Phần mềm quản lý khách sạn nâng cao | Java, MySQL | [🏨 Repository](https://github.com/HTP8888/hotel69) |
+| 🤖 **Zabbix Incident Sim** | Bộ giả lập sự cố mạng & chỉ số thiết bị trạm BTS | Python, Zabbix API, Systemd | [🤖 Repository](https://github.com/HTP8888/zabbix-network-incident-simulator) |
+| 📊 **Zabbix 7.0 Tutorials** | Hướng dẫn cài đặt và triển khai giám sát hệ thống Zabbix 7.0 | Zabbix, Linux | [📊 Repository](https://github.com/HTP8888/Zabbix-LAB-Set-up-Tutorials-Ver-7.0) |
 | 🌐 **My Website** | Portfolio cá nhân với thiết kế responsive đẹp mắt | HTML5, CSS3, JS | [🌐 Live Demo](https://htp8888.github.io/my-website/) |
-| 📁 **OOP PTIT** | Hệ thống bài tập Lập trình hướng đối tượng Java tại PTIT | Java | [🔎 Repository](https://github.com/HTP8888/OOP-PTIT) |
+| 📡 **XGS-PON Lab** | Mô phỏng và tối ưu mạng truy nhập quang thế hệ mới | EVE-NG, G.9807.1 | [📡 Repository](https://github.com/HTP8888/XGS-PON-Lab) |
+| 📂 **SDN & NFV** | Mô phỏng mạng định nghĩa bằng phần mềm và ảo hóa chức năng mạng | OpenFlow, Mininet, SDN | [📂 Repository](https://github.com/HTP8888/SDN-NFV) |
 
 ---
 
