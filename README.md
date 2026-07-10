@@ -15,7 +15,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>Xin chào! Mình là <b>Hoàng Trần Phong</b>, sinh ra và lớn lên ở <b>Nghệ An</b>, hiện đang học tập và làm việc tại <b>Hà Nội</b>.</p>
+      <p>Xin chào! Mình là <b>Hoàng Trần Phong</b>, sinh ra và lớn lên ở <b>Nghệ An</b>, đã tốt nghiệp <b>PTIT</b>.</p>
       <p>🎓 Sinh viên ngành <b>Điện tử - Viễn thông</b> chuyên ngành <b>Mạng và Dịch vụ Internet</b> tại Học viện Công nghệ Bưu chính Viễn thông (<b>PTIT</b>).</p>
       <p>💡 Đam mê mãnh liệt với <b>giám sát hệ thống (System Monitoring)</b>, tự động hóa mạng và đang nghiên cứu sâu về <b>công nghệ truy nhập quang thế hệ mới (XGS-PON)</b>.</p>
     </td>
