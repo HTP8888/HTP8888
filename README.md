@@ -42,7 +42,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/HTP8888/HOTEL69"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-3-light.svg"><img src="awaken/spotlight-3-dark.svg" width="49%" alt="HTP8888/HOTEL69"></picture></a>
+<a href="https://github.com/HTP8888/SImulate-Generative-Network-System"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-3-light.svg"><img src="awaken/spotlight-3-dark.svg" width="49%" alt="HTP8888/SImulate-Generative-Network-System"></picture></a>
+<a href="https://github.com/HTP8888/ccna-learning-hub"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-4-light.svg"><img src="awaken/spotlight-4-dark.svg" width="49%" alt="HTP8888/ccna-learning-hub"></picture></a>
 </p>
 
 <p align="center">

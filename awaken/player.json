@@ -2,7 +2,7 @@
   "login": "HTP8888",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7614023258665376,
+  "overallPercentile": 0.7615046558993565,
   "layout": "default",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 196,
+      "value": 197,
       "rank": "B",
-      "percentile": 0.8133069616726665
+      "percentile": 0.8141838330906299
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 196
+      "value": 197
     },
     {
       "id": "unbroken",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 10
+      "value": 9
     },
     {
       "id": "early-bird",
@@ -88,7 +88,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 43
+      "value": 42
     },
     {
       "id": "gate-opener",
@@ -192,5 +192,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-08T02:36:57.806Z"
+  "syncedAt": "2026-10-08T02:41:55.509Z"
 }
