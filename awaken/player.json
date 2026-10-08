@@ -2,20 +2,20 @@
   "login": "HTP8888",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7615046558993565,
+  "overallPercentile": 0.7641533361281512,
   "layout": "default",
   "class": {
-    "name": "Holy Knight",
-    "element": "Light",
-    "from": "Java"
+    "name": "Blade Master",
+    "element": "Lightning",
+    "from": "JavaScript"
   },
   "title": "Polyglot",
   "stats": [
     {
       "code": "STR",
-      "value": 197,
+      "value": 201,
       "rank": "B",
-      "percentile": 0.8141838330906299
+      "percentile": 0.8176229637669957
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 9,
+      "value": 10,
       "rank": "A",
-      "percentile": 0.9145434310833055
+      "percentile": 0.9348315269247548
     },
     {
       "code": "LUK",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 197
+      "value": 201
     },
     {
       "id": "unbroken",
@@ -88,12 +88,12 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 42
+      "value": 39
     },
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 6
+      "value": 7
     },
     {
       "id": "raider",
@@ -112,8 +112,8 @@
     },
     {
       "id": "polyglot",
-      "tier": 3,
-      "value": 8
+      "tier": 2,
+      "value": 6
     },
     {
       "id": "star-collector",
@@ -148,17 +148,17 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 0
+      "value": 3
     },
     {
       "id": "boss-slayer",
@@ -168,29 +168,38 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "collector",
       "tier": 0,
-      "value": 0
+      "value": 3
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-08",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-07",
         "cleared": 0,
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 0,
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 3,
     "bosses": [],
-    "escapes": 0,
-    "kinds": []
+    "escapes": 1,
+    "kinds": [
+      "contribute",
+      "two-repos",
+      "commit"
+    ]
   },
-  "syncedAt": "2026-10-08T02:41:55.509Z"
+  "syncedAt": "2026-10-08T22:02:34.174Z"
 }
