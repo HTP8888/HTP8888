@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1D57D9&center=true&vCenter=true&width=1000&lines=👋+Xin+chào!+Mình+là+Hoàng+Trần+Phong;🚀+Infrastructure+%26+System+Monitoring+Engineer;🌐+Graduated+at+PTIT+%7C+Mạng+%26+Dịch+vụ+Internet;⚡+Chelsea+FC+Fan+💙+%7C+Bún+bò+Huế+Lover+🍜" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/HTP8888">
-    <img src="https://img.shields.io/github/followers/HTP8888?label=Followers&style=social" />
-  </a>
-</p>
-
----
 
 ## ⚔️ Hunter Status Window (Git Profile Awaken)
 
