@@ -135,12 +135,15 @@
 
 | Dự án | Mô tả chi tiết | Công nghệ chính | Liên kết |
 | :--- | :--- | :--- | :--- |
-| 🏨 **Hotel69** | Phần mềm quản lý khách sạn nâng cao | Java, MySQL | [🏨 Repository](https://github.com/HTP8888/hotel69) |
-| 🤖 **Zabbix Incident Sim** | Bộ giả lập sự cố mạng & chỉ số thiết bị trạm BTS | Python, Zabbix API, Systemd | [🤖 Repository](https://github.com/HTP8888/zabbix-network-incident-simulator) |
-| 📊 **Zabbix 7.0 Tutorials** | Hướng dẫn cài đặt và triển khai giám sát hệ thống Zabbix 7.0 | Zabbix, Linux | [📊 Repository](https://github.com/HTP8888/Zabbix-LAB-Set-up-Tutorials-Ver-7.0) |
-| 🌐 **My Website** | Portfolio cá nhân với thiết kế responsive đẹp mắt | HTML5, CSS3, JS | [🌐 Live Demo](https://htp8888.github.io/my-website/) |
-| 📡 **XGS-PON Lab** | Mô phỏng và tối ưu mạng truy nhập quang thế hệ mới | EVE-NG, G.9807.1 | [📡 Repository](https://github.com/HTP8888/XGS-PON-Lab) |
-| 📂 **SDN & NFV** | Mô phỏng mạng định nghĩa bằng phần mềm và ảo hóa chức năng mạng | OpenFlow, Mininet, SDN | [📂 Repository](https://github.com/HTP8888/SDN-NFV) |
+| 🤖 **Zabbix Incident Sim** | Bộ giả lập sự cố mạng & chỉ số thiết bị trạm BTS qua Zabbix API | Python, Zabbix API, Systemd | [🤖 Repository](https://github.com/HTP8888/zabbix-network-incident-simulator) |
+| 📊 **Zabbix 7.0 LTS Tutorials** | Hướng dẫn cài đặt và triển khai giám sát hệ thống Zabbix 7.0 LTS Server trên Ubuntu | Zabbix 7.0, Ubuntu, Shell | [📊 Repository](https://github.com/HTP8888/Zabbix-LAB-Set-up-Tutorials-Ver-7.0) |
+| 📶 **3G / 4G / 5G Network Sim** | Mô phỏng kiến trúc hệ thống mạng viễn thông thế hệ mới (3G, 4G, 5G) | 3G/4G/5G, Telecom | [📶 Repository](https://github.com/HTP8888/SImulate-Generative-Network-System) |
+| 🌐 **CCNA Learning Hub** | Tổng hợp kiến thức, cấu hình lab chuyển mạch, định tuyến và ôn tập CCNA | Cisco IOS, Routing, Switching | [🌐 Repository](https://github.com/HTP8888/ccna-learning-hub) |
+| 📂 **SDN & NFV Research** | Nghiên cứu mạng định nghĩa bằng phần mềm và ảo hóa chức năng mạng | OpenFlow, Mininet, SDN | [📂 Repository](https://github.com/HTP8888/SDN-NFV) |
+| ☕ **Lập trình mạng Socket** | Lập trình mạng hướng đối tượng, Socket TCP/UDP Client-Server đa luồng | Java Core, Socket | [☕ Repository](https://github.com/HTP8888/LAP-TRINH-MANG) |
+| 🏨 **Hotel69** | Phần mềm quản lý khách sạn nâng cao với giao diện trực quan | Java, Swing, MySQL | [🏨 Repository](https://github.com/HTP8888/HOTEL69) |
+| ⚡ **TFT Anti-Crash Optimizer** | Công cụ tối ưu hóa tiến trình hệ thống, dọn dẹp tài nguyên và chống crash | Windows, Optimization | [⚡ Repository](https://github.com/HTP8888/tft-anti-crash-optimizer) |
+| 🌐 **My Portfolio Website** | Portfolio cá nhân với thiết kế responsive đẹp mắt | HTML5, CSS3, JS | [🌐 Live Demo](https://htp8888.github.io/my-website/) |
 
 ---
 
