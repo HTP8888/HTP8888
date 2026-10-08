@@ -126,6 +126,7 @@
 
 | Dự án | Mô tả chi tiết | Công nghệ chính | Liên kết |
 | :--- | :--- | :--- | :--- |
+| ⚡ **AG AutoClick & Scroll** | Tiện ích tự động click duyệt lệnh (Submit, Run, Allow, Accept) và cuộn trang cho Antigravity IDE & Agent 2.0 | JavaScript, VS Code Extension, Electron | [⚡ Repository](https://github.com/HTP8888/AG-AutoClick) |
 | 🤖 **Zabbix Incident Sim** | Bộ giả lập sự cố mạng & chỉ số thiết bị trạm BTS qua Zabbix API | Python, Zabbix API, Systemd | [🤖 Repository](https://github.com/HTP8888/zabbix-network-incident-simulator) |
 | 📊 **Zabbix 7.0 LTS Tutorials** | Hướng dẫn cài đặt và triển khai giám sát hệ thống Zabbix 7.0 LTS Server trên Ubuntu | Zabbix 7.0, Ubuntu, Shell | [📊 Repository](https://github.com/HTP8888/Zabbix-LAB-Set-up-Tutorials-Ver-7.0) |
 | 📶 **3G / 4G / 5G Network Sim** | Mô phỏng kiến trúc hệ thống mạng viễn thông thế hệ mới (3G, 4G, 5G) | 3G/4G/5G, Telecom | [📶 Repository](https://github.com/HTP8888/SImulate-Generative-Network-System) |
