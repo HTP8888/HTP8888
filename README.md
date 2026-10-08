@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1D57D9&center=true&vCenter=true&width=1000&lines=👋+Xin+chào!+Mình+là+Hoàng+Trần+Phong;🚀+System+Monitoring+%26+Network+Engineer;🌐+Graduated+at+PTIT+%7C+Mạng+%26+Dịch+vụ+Internet;⚡+Chelsea+FC+Fan+💙+%7C+Bún+bò+Huế+Lover+🍜" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1D57D9&center=true&vCenter=true&width=1000&lines=👋+Xin+chào!+Mình+là+Hoàng+Trần+Phong;🚀+Infrastructure+%26+System+Monitoring+Engineer;🌐+Graduated+at+PTIT+%7C+Mạng+%26+Dịch+vụ+Internet;⚡+Chelsea+FC+Fan+💙+%7C+Bún+bò+Huế+Lover+🍜" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,14 +10,33 @@
 
 ---
 
+## ⚔️ Hunter Status Window (Git Profile Awaken)
+
+<!-- AWAKEN:START -->
+<div align="center">
+  <img src="https://git-profile-awaken.vercel.app/api?username=htp8888&widget=hunter&theme=solo_leveling" alt="Hunter Card" width="100%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://git-profile-awaken.vercel.app/api?username=htp8888&widget=web&theme=solo_leveling" alt="Stat Web" width="49%" />
+  <img src="https://git-profile-awaken.vercel.app/api?username=htp8888&widget=skills&theme=solo_leveling" alt="Skills" width="49%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://git-profile-awaken.vercel.app/api?username=htp8888&widget=activity&theme=solo_leveling" alt="Activity" width="100%" />
+</div>
+<!-- AWAKEN:END -->
+
+---
+
 ## 👨‍💻 Giới thiệu bản thân
 
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
       <p>Xin chào! Mình là <b>Hoàng Trần Phong</b>, sinh ra và lớn lên ở <b>Nghệ An</b>, đã tốt nghiệp <b>PTIT</b>.</p>
-      <p>🎓 Sinh viên ngành <b>Điện tử - Viễn thông</b> chuyên ngành <b>Mạng và Dịch vụ Internet</b> tại Học viện Công nghệ Bưu chính Viễn thông (<b>PTIT</b>).</p>
-      <p>💡 Đam mê mãnh liệt với <b>giám sát hệ thống (System Monitoring)</b>, tự động hóa mạng và đang nghiên cứu sâu về <b>công nghệ truy nhập quang thế hệ mới (XGS-PON)</b>.</p>
+      <p>🎓 Tốt nghiệp ngành <b>Điện tử - Viễn thông</b>, chuyên ngành <b>Mạng và Dịch vụ Internet</b> tại Học viện Công nghệ Bưu chính Viễn thông (<b>PTIT</b>).</p>
+      <p>💡 Đam mê mãnh liệt với <b>giám sát hệ thống (System Monitoring)</b>, hạ tầng máy chủ, tự động hóa mạng và nghiên cứu chuyên sâu về <b>công nghệ truy nhập quang thế hệ mới (XGS-PON)</b>.</p>
     </td>
     <td width="40%" valign="top">
       <h3>📍 Thông tin nhanh</h3>
@@ -46,13 +65,24 @@
 </p>
 
 <p align="left">
-  <b>💻 Programming & DevOps</b><br/>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
+  <b>💻 Infrastructure, Cloud & DevOps</b><br/>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></a>
+  <a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  <b>⚡ Programming & Scripting</b><br/>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
   <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
   <a href="https://w3.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://w3.org/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
 
 <p align="left">
@@ -60,6 +90,7 @@
   <img src="https://img.shields.io/badge/XGS--PON-008080?style=for-the-badge&logo=optical&logoColor=white" />
   <img src="https://img.shields.io/badge/GPON-4682B4?style=for-the-badge&logo=fiber&logoColor=white" />
   <img src="https://img.shields.io/badge/SDN-8B0000?style=for-the-badge&logo=sdn&logoColor=white" />
+  <img src="https://img.shields.io/badge/5G_Networks-00BFFF?style=for-the-badge&logo=5g&logoColor=white" />
 </p>
 
 ---
@@ -77,20 +108,7 @@
 
 ---
 
-## 📚 Đang học tập & Nghiên cứu thêm
-<p align="left">
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
-  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/5G%20Networks-00BFFF?style=flat-square&logo=5g&logoColor=white"/>
-</p>
-
----
-
 ## 🎯 Sở thích & Góc cá nhân
-*   ⚽ Fan trung thành của câu lạc bộ **Chelsea FC** 💙 (Keep The Blue Flag Flying High!)
-*   🍜 Có niềm đam mê mãnh liệt với món **Bún bò Huế** vào cuối tuần.
-*   💻 Thích vọc vạch, cấu hình lab mạng thực tế (thỉnh thoảng làm sập cả lab :D).
-
-
-
-
+* ⚽ Fan trung thành của câu lạc bộ **Chelsea FC** 💙 (*Keep The Blue Flag Flying High!*)
+* 🍜 Có niềm đam mê mãnh liệt với món **Bún bò Huế** vào cuối tuần.
+* 💻 Thích vọc vạch, cấu hình lab mạng thực tế và hệ thống High Availability.

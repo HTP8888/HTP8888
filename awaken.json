@@ -1,0 +1,48 @@
+{
+  "username": "htp8888",
+  "theme": "solo_leveling",
+  "layout": "default",
+  "activity": "arise",
+  "title": "auto",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "motion": "full",
+  "hours": true,
+  "bio": {
+    "role": "Infrastructure & Network Engineer",
+    "focus": "System Monitoring & Cloud Infrastructure",
+    "location": "Hanoi, Vietnam",
+    "about": "PTIT Alumni. Passionate about System Monitoring (Zabbix/Grafana), Cloud Infrastructure, and Optical Access Networks."
+  },
+  "socials": [
+    {
+      "type": "email",
+      "url": "mailto:phonght.b21vt339@stu.ptit.edu.vn",
+      "label": "Email"
+    },
+    {
+      "type": "website",
+      "url": "https://htp8888.github.io/my-website/",
+      "label": "Website"
+    }
+  ],
+  "arsenal": [
+    "Zabbix",
+    "Grafana",
+    "Linux",
+    "Ubuntu",
+    "Python",
+    "Java",
+    "Wireshark",
+    "Nginx",
+    "Docker",
+    "AWS",
+    "Ansible",
+    "Git"
+  ],
+  "spotlight": [
+    "htp8888/zabbix-network-incident-simulator",
+    "htp8888/Zabbix-LAB-Set-up-Tutorials-Ver-7.0",
+    "htp8888/hotel69",
+    "htp8888/XGS-PON-Lab"
+  ]
+}
