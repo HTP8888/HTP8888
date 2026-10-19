@@ -2,7 +2,7 @@
   "login": "HTP8888",
   "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7641533361281512,
+  "overallPercentile": 0.7619089214723718,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 10,
+      "value": 9,
       "rank": "A",
-      "percentile": 0.9348315269247548
+      "percentile": 0.9145434310833055
     },
     {
       "code": "LUK",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 9
+      "value": 0
     },
     {
       "id": "early-bird",
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 7
+      "value": 6
     },
     {
       "id": "raider",
@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-19",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-18",
         "cleared": 0,
         "total": 3
@@ -251,5 +256,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-18T19:24:56.585Z"
+  "syncedAt": "2026-10-19T21:30:54.661Z"
 }
