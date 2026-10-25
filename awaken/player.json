@@ -73,7 +73,7 @@
     {
       "id": "unbroken",
       "tier": 0,
-      "value": 2
+      "value": 1
     },
     {
       "id": "night-owl",
@@ -87,8 +87,8 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 2,
-      "value": 42
+      "tier": 0,
+      "value": 3
     },
     {
       "id": "gate-opener",
@@ -138,12 +138,12 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 24
+      "value": 22
     },
     {
       "id": "diligent",
       "tier": 0,
-      "value": 7
+      "value": 5
     },
     {
       "id": "daily-grinder",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-25",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-10-24",
         "cleared": 0,
@@ -281,5 +286,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-24T19:28:20.061Z"
+  "syncedAt": "2026-10-25T19:34:45.658Z"
 }
