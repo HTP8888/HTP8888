@@ -54,7 +54,7 @@
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-luk-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-luk-light.svg"><img src="awaken/rune-luk-dark.svg" width="24%" alt="LUK: rank B"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-cha-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-cha-light.svg"><img src="awaken/rune-cha-dark.svg" width="24%" alt="CHA: rank C"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-cha-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-cha-light.svg"><img src="awaken/rune-cha-dark.svg" width="24%" alt="CHA: rank B"></picture>
 </p>
 <!-- AWAKEN:END -->
 
