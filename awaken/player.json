@@ -55,20 +55,6 @@
       "from": "C",
       "to": "B",
       "at": "2026-11-01T21:10:06.762Z"
-    },
-    {
-      "kind": "overall",
-      "subject": "Overall rank",
-      "from": "B",
-      "to": "C",
-      "at": "2026-10-26T21:37:55.518Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "A",
-      "to": "C",
-      "at": "2026-10-26T21:37:55.518Z"
     }
   ],
   "achievements": [
@@ -200,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-02",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-01",
         "cleared": 0,
@@ -343,5 +334,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-01T21:10:06.762Z"
+  "syncedAt": "2026-11-02T23:51:54.310Z"
 }
