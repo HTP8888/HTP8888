@@ -48,15 +48,7 @@
       "percentile": 0.7543639478096587
     }
   ],
-  "events": [
-    {
-      "kind": "stat",
-      "subject": "CHA",
-      "from": "C",
-      "to": "B",
-      "at": "2026-11-01T21:10:06.762Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-09",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-08",
         "cleared": 0,
@@ -364,5 +361,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-08T21:07:03.596Z"
+  "syncedAt": "2026-11-10T00:40:39.196Z"
 }
